@@ -77,3 +77,5 @@ class ModalWindowComponent extends BaseComponent {
 }
 
 export const ModalWindow = (config: IModalPopup) => new ModalWindowComponent(config);
+//  Методы и переменные названы неинформативно (например, parrot, constructor2, showShowShow).Неясно, как очищаются обработчики событий при уничтожении компонента.
+// Избыточные проверки и преобразования

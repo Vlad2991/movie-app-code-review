@@ -28,3 +28,4 @@ class LoaderCompoent extends BaseComponent {
 }
 
 export const Loader = () => new LoaderCompoent();
+//  Код содержит избыточные операции (например, конкатенация строк) и требует оптимизации

@@ -18,3 +18,4 @@ export const MyfavoriteComponent = ({ txt, onClick, className }: Props) =>
       onClick?.();
     },
   });
+// Название пропса txt не является описательным.Переименуйте параметр preventDefault в event, чтобы сделать его понятным.
